@@ -9,3 +9,10 @@ Script should load both "train" and "test" parts of data, select mean and std me
 
 Output should be saved in tidy format.
 
+##### how to run
+
+1. Download data by the link https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+2. Download run_analysis.R
+3. Please unzipped data and R script into same directory
+4. Execute run_analysis.R
+3. Resulting tidy data set will be saved to file "./UCI HAR Dataset/tidy.txt"
