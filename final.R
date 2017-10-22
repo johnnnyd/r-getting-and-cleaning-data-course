@@ -1,6 +1,5 @@
 library(reshape2)
 
-setwd("./RProjects")
 
 # main function that is responsible for all calculation for one group of
 # input data (either "train" or "test)
